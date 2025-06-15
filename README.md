@@ -30,9 +30,18 @@ Sumber: Dummy dataset dibuat untuk keperluan portofolio (Kaggle)
 5. Visualisasi segmentasi dan insight
 
 ## 📊 Hasil Utama (Highlight)
-- 
--  
--
+- 📊 Jumlah Pelanggan per Segmen
+
+  Grafik bar menunjukkan bahwa segmen Berpotensi Hilang memiliki jumlah pelanggan tertinggi (5213), diikuti oleh Loyal (4776) dan Hilang (4422). Sementara itu, segmen Setia memiliki jumlah paling sedikit (3004), yang menandakan basis pelanggan    yang konsisten tetapi relatif kecil. Tingginya angka pada segmen yang berisiko seperti “Berpotensi Hilang” dan “Hilang” menunjukkan adanya tantangan dalam mempertahankan pelanggan.
+
+  Fokuskan strategi retensi seperti promosi eksklusif atau email re-engagement untuk pelanggan yang berpotensi hilang dan hilang guna meminimalkan churn.
+  
+- 🥧 Pie Chart – Proporsi Pelanggan per Segmen
+  
+  Diagram pie menunjukkan bahwa sekitar 30% pelanggan masuk ke segmen Berpotensi Hilang, menjadikannya kelompok dengan proporsi terbesar. Segmen Loyal dan Hilang masing-masing berkontribusi sekitar 27% dan 25%, sedangkan Setia hanya sekitar       17%. Komposisi ini mengindikasikan bahwa sebagian besar pelanggan berada dalam status yang tidak stabil atau rawan pergi.
+
+  Optimalkan pengalaman pelanggan dan berikan insentif loyalitas khusus untuk memperbesar proporsi pelanggan Setia dan Loyal serta memperkecil porsi pelanggan yang berisiko.
+
 
 ## ▶️ Cara Menjalankan
 1. Clone repo ini.
