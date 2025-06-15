@@ -31,20 +31,20 @@ Sumber: Dummy dataset dibuat untuk keperluan portofolio (Kaggle)
 
 ## 📊 Hasil Utama (Highlight)
 - 📊 Jumlah Pelanggan per Segmen
-  
-  ![Image](https://github.com/user-attachments/assets/a0abcc0a-b847-4b77-9365-064c8b0ffb31)
 
-  Grafik bar menunjukkan bahwa segmen Berpotensi Hilang memiliki jumlah pelanggan tertinggi (5213), diikuti oleh Loyal (4776) dan Hilang (4422). Sementara itu, segmen Setia memiliki jumlah paling sedikit (3004), yang menandakan basis pelanggan    yang konsisten tetapi relatif kecil. Tingginya angka pada segmen yang berisiko seperti “Berpotensi Hilang” dan “Hilang” menunjukkan adanya tantangan dalam mempertahankan pelanggan.
+  ![Image](https://github.com/user-attachments/assets/ddd93138-5c94-4ac5-9cbf-23287fcf6812)
+
+  Grafik bar menunjukkan bahwa segmen **Berpotensi Hilang** memiliki jumlah pelanggan tertinggi **(6957)**, diikuti oleh pelanggan **Hilang (6149)**. Sementara itu, segmen **Loyal** memiliki jumlah paling sedikit **(4039)**, yang menandakan basis pelanggan yang konsisten tetapi relatif kecil. Tingginya angka pada segmen yang berisiko seperti “Berpotensi Hilang” dan “Hilang” menunjukkan adanya tantangan dalam mempertahankan pelanggan.
 
   Fokuskan strategi retensi seperti promosi eksklusif atau email re-engagement untuk pelanggan yang berpotensi hilang dan hilang guna meminimalkan churn.
   
 - 🥧 Proporsi Pelanggan per Segmen
   
-  ![Image](https://github.com/user-attachments/assets/3e4ee904-e8b8-4513-b819-1ff8f944ee4e)
+  ![Image](https://github.com/user-attachments/assets/d744bbb9-bda7-419b-a522-e2c9e267bd5d)
   
-  Diagram pie menunjukkan bahwa sekitar 30% pelanggan masuk ke segmen Berpotensi Hilang, menjadikannya kelompok dengan proporsi terbesar. Segmen Loyal dan Hilang masing-masing berkontribusi sekitar 27% dan 25%, sedangkan Setia hanya sekitar       17%. Komposisi ini mengindikasikan bahwa sebagian besar pelanggan berada dalam status yang tidak stabil atau rawan pergi.
+  Diagram pie menunjukkan bahwa sekitar **39,9%** pelanggan masuk ke segmen Berpotensi Hilang, menjadikannya kelompok dengan proporsi terbesar. Segmen Hilang dan Loyal masing-masing berkontribusi sekitar **35,3%** dan **24,7%**. Komposisi ini mengindikasikan bahwa sebagian besar pelanggan berada dalam status yang tidak stabil atau rawan pergi.
 
-  Optimalkan pengalaman pelanggan dan berikan insentif loyalitas khusus untuk memperbesar proporsi pelanggan Setia dan Loyal serta memperkecil porsi pelanggan yang berisiko.
+  Optimalkan pengalaman pelanggan dan berikan insentif loyalitas khusus untuk memperbesar proporsi pelanggan Loyal serta memperkecil porsi pelanggan yang berisiko.
 
 
 ## ▶️ Cara Menjalankan
