@@ -1,7 +1,7 @@
 # 🎯 RFM Analysis: Skincare & Beauty E-Commerce
 
 ## 📌 Deskripsi Proyek
-Proyek ini bertujuan melakukan segmentasi pelanggan toko e-commerce global yang menjual produk skincare dan kecantikan lainnya menggunakan metode RFM (Recency, Frequency, Monetary). Dengan analisis ini, bisnis dapat mengidentifikasi pelanggan setia, loyal , pelanggan berisiko kehilangan, dan peluang meningkatkan loyalitas melalui strategi pemasaran yang tepat.
+Proyek ini bertujuan melakukan segmentasi pelanggan toko e-commerce global yang menjual produk skincare dan kecantikan lainnya menggunakan metode RFM (Recency, Frequency, Monetary). Dengan analisis ini, bisnis dapat mengidentifikasi pelanggan setia, loyal , pelanggan berisiko kehilangan, dan pelanggan hilang.
 
 ## 🎯 Tujuan Analisis
 - Menghitung nilai Recency, Frequency, dan Monetary untuk setiap pelanggan
@@ -28,19 +28,18 @@ Sumber: Dummy dataset dibuat untuk keperluan portofolio (Kaggle)
 3. Pemberian skor R, F, M (1–5)
 4. Segmentasi pelanggan berdasarkan RFM Score
 5. Visualisasi segmentasi dan insight
-6. Rekomendasi strategi pemasaran
 
 ## 📊 Hasil Utama (Highlight)
-- 🎯 Segmentasi pelanggan mengidentifikasi 20% pelanggan terbaik dengan nilai RFM tertinggi.
-- 📉 Identifikasi pelanggan yang berisiko churn untuk dilakukan retargeting.
-- 💡 Rekomendasi kampanye loyalitas dan promo khusus untuk setiap segmen.
+- 
+-  
+-
 
 ## ▶️ Cara Menjalankan
 1. Clone repo ini.
-2. Jalankan `rfm_analysis.ipynb` di Jupyter/Colab.
+2. Jalankan `RFM_Analysis.ipynb` di Jupyter/Colab.
 
 ## 👤 Author
-Koko – Data Analyst Enthusiast  
+Koko
 Bandung, 2025
 
 ## 📄 License
